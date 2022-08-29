@@ -1,2 +1,2 @@
 # Task-one
-https://github.com/SolomonOdunusi/Task-one.git
+https://solomonodunusi.github.io/Task-one/
